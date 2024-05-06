@@ -14,9 +14,13 @@
 
 ## Software
 
-[![google_chrome](https://img.shields.io/badge/Google_Chrome-259645?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.google.com/chrome/)
-[![vs_code](https://img.shields.io/badge/VS_Code-2267BB?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![windows_10](https://img.shields.io/badge/Windows_10-01A6F0?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/software-download/windows10)
+
+[![google_chrome](https://img.shields.io/badge/Google_Chrome-259645?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.google.com/chrome)
+[![vs_code](https://img.shields.io/badge/VS_Code-2267BB?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
+
+[![vegas_pro](https://img.shields.io/badge/Vegas_Pro-4A6CFF?style=for-the-badge&logo=vegas-pro&logoColor=white)](https://www.vegascreativesoftware.com/int/vegas-pro)
+[![studio_one](https://img.shields.io/badge/Studio_One-3084FF?style=for-the-badge&logo=presonus&logoColor=white)](https://www.presonus.com/en-US/start)
 
 ## Contact
 
