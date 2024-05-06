@@ -9,6 +9,7 @@
 ## Statistics
 
 ![kawaxte_gh_stats](https://github-readme-stats.vercel.app/api?username=Kawaxte&show_icons=true&theme=radical)
+
 ![kawaxte_gh_lang_stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawaxte&layout=compact&theme=radical)
 
 ## Software
